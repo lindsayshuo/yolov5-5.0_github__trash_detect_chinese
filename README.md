@@ -1,0 +1,2 @@
+# yolov5-5.0_github__trash_detect_chinese
+yolov5-5.0_github__trash_detect_chinese
